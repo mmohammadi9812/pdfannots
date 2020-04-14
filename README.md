@@ -1,7 +1,6 @@
 # About
 
-This is ~~a script~~ forked from [this repo](https://github.com/0xabu/pdfannots) and extracts annotations
-(highlights, comments, etc.) from a PDF file, and formats them as ~~markdown~~ org-mode file.
+This is a script that extracts annotations (highlights, comments, etc.) from a PDF file, and formats them as ~~markdown~~ org-mode file.
 
 P.S: org files need emacs to show their capabilities, so I've disabled output in console.
 
