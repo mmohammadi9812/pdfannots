@@ -1,0 +1,6 @@
+chardet==3.0.4
+pdfminer.six==20200402
+pycodestyle==2.5.0
+pycryptodome==3.9.7
+PyPDF2==1.26.0
+sortedcontainers==2.1.0

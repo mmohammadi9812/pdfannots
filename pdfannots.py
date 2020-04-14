@@ -419,13 +419,6 @@ def parse_args():
     g.add_argument("-p", "--progress", default=False, action="store_true",
                    help="emit progress information")
     g.add_argument(
-        "-o",
-        metavar="OUTFILE",
-        type=argparse.FileType("w"),
-        dest="output",
-        default=sys.stdout,
-        help="output file (default is stdout)")
-    g.add_argument(
         "-n",
         "--cols",
         default=2,
